@@ -100,7 +100,7 @@ hyphens: auto;
 }
 
 a:link {
-color:darkslategrey;
+ color: darkslategrey;
 }
 
 
@@ -111,5 +111,5 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
-  color: lightslategrey
+  color: lightslategrey;
 }
